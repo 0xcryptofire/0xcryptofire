@@ -1,9 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+0x+crypto+talent.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Dancing+Script&size=40&center=true&vCenter=true&width=1000&height=100&lines=HELLO+I+AM+0x+crypto+fire.;I+AM+A+FULLSTACK+AND+BLOCKCHAIN+DEVELOPER.;FULLSTACK+AND+BLOCKCHAIN+DEVELOPMENT+IS+MY+LIFE.;WELCOME+TO+VISIT+MY+PROFILE.)](https://git.io/typing-svg)
 <br />
 <p align="center">
   <img src="https://github.com/savio-2-lopes/savio-2-lopes/blob/output/github-user-contribution.svg" />
 </p>
-<h1 align="center">⭐ Let's make Success Together!⭐<img src="https://komarev.com/ghpvc/?username=0xcryptotalent&label=Profile%20views&color=0e75b6&style=flat" alt="0xcryptotalent" /></h1>
+<h1 align="center">⭐ Let's make Success Together!⭐<img src="https://komarev.com/ghpvc/?username=0xcryptofire&label=Profile%20views&color=0e75b6&style=flat" alt="0xcryptofire" /></h1>
 <img src="https://github.com/VirusNinja1210/VirusNinja1210/blob/main/MishManners20animated.gif?raw=true" width="100%" align="center">
 
 <p>
@@ -87,28 +87,28 @@
 <h3 align="center">📊 GitHub Activity Graph</h3><hr>
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xcryptotalent&theme=tokyo-night&hide_border=true&area=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=0xcryptofire&theme=tokyo-night&hide_border=true&area=true" />
 <br>
 
 <table>
     <tr align="center">
         <td>
-        <a href="https://github.com/0xcryptotalent"><img src="https://github-readme-stats.vercel.app/api?username=0xcryptotalent&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+        <a href="https://github.com/0xcryptofire"><img src="https://github-readme-stats.vercel.app/api?username=0xcryptofire&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
         </a>
         </td>
         <td>
-        <a href="https://github.com/0xcryptotalent"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcryptotalent&theme=tokyonight&layout=compact" />
+        <a href="https://github.com/0xcryptofire"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xcryptofire&theme=tokyonight&layout=compact" />
         </a>
         </td>
         <td>        
-        <a href="https://github.com/0xcryptotalent">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcryptotalent&theme=tokyonight" />
+        <a href="https://github.com/0xcryptofire">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xcryptofire&theme=tokyonight" />
         </a>
         </td>
     </tr>
 </table>
 
 <br>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xcryptotalent&theme=radical&hide_border=true&row=1" alt="0xcryptotalent" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xcryptofire&theme=radical&hide_border=true&row=1" alt="0xcryptofire" /></a> </p>
 <br>
 <img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
