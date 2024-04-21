@@ -107,7 +107,6 @@
         </td>
     </tr>
 </table>
-
 <br>
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=0xcryptofire&theme=radical&hide_border=true&row=1" alt="0xcryptofire" /></a> </p>
 <br>
