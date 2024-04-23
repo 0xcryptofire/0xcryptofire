@@ -7,7 +7,7 @@
 <img src="https://github.com/VirusNinja1210/VirusNinja1210/blob/main/MishManners20animated.gif?raw=true" width="100%" align="center">
 
 <p>
-  🤔 Enthusiastic Web and Blockchain Engineer who loves to create effective websites and work with businesses to help them grow. 
+  🤔 Enthusiastic Blockchain Engineer who loves to create effective solution and work with businesses to help them grow. 
 </p>
 <br/>
 <p>
