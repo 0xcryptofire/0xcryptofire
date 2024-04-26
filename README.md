@@ -24,7 +24,7 @@
 <br/>
 
 <h3 align="center">📊 My SkillSet</h3><hr>
-<table>
+<!-- <table>
   <tr>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_nft.png?raw=true" width="200"></td>
       <td><img src="https://github.com/kroim/profile/blob/master/icons/icon_defi.png?raw=true" width="200"></td>
@@ -67,7 +67,22 @@
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/c-4-226082.png" width="200"></td>
     <td><img src="https://cdn.iconscout.com/icon/free/png-128/bootstrap-226077.png" width="200"></td>
   </tr>
-</table>
+</table> -->
+<span>
+<img src="https://res.coinpaper.com/coinpaper/bitcoin_btc_logo_62c59b827e.png" alt="Bitcoin logo" title="Bitcoin" height="35"/>
+&nbsp;
+<img src="https://seeklogo.com/images/S/solana-sol-logo-12828AD23D-seeklogo.com.png?v=637944448890000000" alt="Solana logo" title="Solana" height="35" />
+&nbsp;
+<img src="https://seeklogo.com/images/E/ethereum-logo-EC6CDBA45B-seeklogo.com.png" alt="Ethereum logo" title="Ethereum" height="35" />
+&nbsp;
+<img src="https://seeklogo.com/images/B/binance-coin-bnb-logo-CD94CC6D31-seeklogo.com.png" alt="Binance logo" title="Binance" height="35" />
+&nbsp;
+<img src="https://seeklogo.com/images/A/avalanche-avax-logo-440813952D-seeklogo.com.png" alt="Avalanche logo" title="Avalanche" height="35" />
+&nbsp;
+<img src="https://seeklogo.com/images/P/polygon-matic-logo-1DFDA3A3A8-seeklogo.com.png" alt="Polygon logo" title="Polygon" height="35" />
+&nbsp;
+<img src="https://seeklogo.com/images/N/near-icon-logo-10785AE366-seeklogo.com.png" alt="Neaer Protocol logo" title="Near protocol" height="35" />
+&nbsp;
 
 <img align="right" alt="GIF" src="https://github.com/Kilros0817/Kilros0817/blob/main/code.gif?raw=true" width="400" />
 
